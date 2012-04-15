@@ -1,0 +1,12 @@
+== Maven Spring Porlet (Liferay) ==
+
+Liferay is a complex platform and for beginners, the learning curve of software development is rather high. At least compared to other modern web technologies.
+Therefore, I have created a sample Maven based Spring MVC portlet that people can start to build on.
+
+== Usage ==
+
+Run "mvn package" to create a .war file which can be deployed to Liferay. The portlet is created under "Demos" category in Liferay.
+
+== Supported versions ==
+
+Liferay 6.1.x
