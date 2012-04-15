@@ -1,4 +1,4 @@
-== Maven Spring Porlet (Liferay) ==
+== Maven Spring Portlet (Liferay) ==
 
 Liferay is a complex platform and for beginners, the learning curve of software development is rather high. At least compared to other modern web technologies.
 Therefore, I have created a sample Maven based Spring MVC portlet that people can start to build on.
